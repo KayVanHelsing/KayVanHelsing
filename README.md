@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KayVanHelsing
+- 👀 I’m interested in creating video games so that I can create music for them.
+- 🌱 I’m currently learning Godot 4.
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: I'm a composer/musician learning to code so I can practice adding music to games.
